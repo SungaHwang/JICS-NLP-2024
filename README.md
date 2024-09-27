@@ -1,6 +1,7 @@
 # BERT 기반 자연어처리 모델의 미세 조정을 통한 한국어 리뷰 감성 분석: 입력 시퀀스 길이 최적화
 **Fine-tuning BERT-based NLP Models for Sentiment Analysis of Korean Reviews: Optimizing the sequence length** <br>
-Sunga Hwang, Seyeon Park, Beakcheol Jang, Journal of Internet Computing and Services, Vol. 25, No. 4, pp. 47-56, Aug. 2024 <br>
+Sunga Hwang, Seyeon Park, Beakcheol Jang<br>
+Journal of Internet Computing and Services, Vol. 25, No. 4, pp. 47-56, Aug. 2024 <br>
 Paper: https://www.jics.or.kr/digital-library/101121 <br>
 
 본 연구는 BERT 기반 자연어처리 모델들을 미세 조정하여 한국어 리뷰 데이터를 대상으로 감성 분석을 수행하는 방법을 제안한다.
